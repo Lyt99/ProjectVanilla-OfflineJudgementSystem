@@ -1,0 +1,13 @@
+c:\users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\bin\Debug\ProjectVanilla.exe.config
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\obj\Debug\ProjectVanilla.csprojResolveAssemblyReference.cache
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\obj\Debug\ProjectVanilla.Properties.Resources.resources
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\obj\Debug\ProjectVanilla.csproj.GenerateResource.Cache
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\bin\Debug\ProjectVanilla.exe
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\bin\Debug\ProjectVanilla.pdb
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\bin\Debug\Newtonsoft.Json.dll
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\bin\Debug\Newtonsoft.Json.xml
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\obj\Debug\ProjectVanilla.exe
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\obj\Debug\ProjectVanilla.pdb
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\obj\Debug\ProjectVanilla.Main.resources
+C:\Users\子\documents\visual studio 2013\Projects\ProjectVanilla\ProjectVanilla\obj\Debug\ProjectVanilla.FormTesting.resources

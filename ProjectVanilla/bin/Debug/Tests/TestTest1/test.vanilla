@@ -1,0 +1,27 @@
+{
+	"info":{
+		"name":"测试测试1",
+		"desc":"测试json的读取1"
+	},
+	
+	"subjects":[
+		{
+			"name":"小测试1",
+			"desc":"测试1",
+			"option":"-O9",
+			"folder":"test1",
+			"pointscount": "10",
+			"timelimit": "2000",
+			"memorylimit":"1"
+		},
+		{
+		    "name":"小测试2",
+			"desc":"测试2",
+			"option":"-O9",
+			"folder":"test2",
+			"pointscount": "10",
+			"timelimit": "2000",
+			"memorylimit":"1"
+		}	
+	]
+}

@@ -1,0 +1,11 @@
+{
+    "Compliers": {
+        "Cpp": "bin\\compliers\\cpp",
+        "C": "bin\\compliers\\C",
+        "Pascal": "bin\\Compliers\\pascal"
+    },
+	
+	"Tests": {
+		"Dir" : "Tests"
+	}
+}
