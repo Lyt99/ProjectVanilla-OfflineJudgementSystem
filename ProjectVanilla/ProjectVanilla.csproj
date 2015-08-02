@@ -48,7 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TestingManager.cs" />
+    <Compile Include="SubjectManager.cs" />
     <Compile Include="ConfigureManager.cs" />
     <Compile Include="FormTesting.cs">
       <SubType>Form</SubType>
